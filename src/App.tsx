@@ -1,14 +1,16 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import { EasyButton } from './components';
+// import { EasyButton } from './components';
 import ClassEnumTypes from './components/ClassEnumTypes';
 import './global.css';
+import MyButton from './components/MyButton';
 
 function App() {
   return (
     <div className="App">
               <ClassEnumTypes/>
+              <MyButton></MyButton>
       <header className="App-header">
         {/* <img src={logo} className="App-logo" alt="logo" />
         <p>

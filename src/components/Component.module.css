@@ -132,7 +132,9 @@
 
 
 .loginButton {
-  background-color: blue;
-  height: 100px;
-  width: 300px;
+  background-color: white;
+  border-radius: 62px;
+  height: 46px;
+  width: 349px;
+  border-color: #fff;
 }

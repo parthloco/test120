@@ -1,9 +1,0 @@
-
-      import './global.css';
-      
-    
-    
-    
-    export {  };
-  
-    
