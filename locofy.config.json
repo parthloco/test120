@@ -1,5 +1,3 @@
 {
-  "components": ["./src/components/ClassEnumTypes.js", "./src/components/MyButton.js"],
-  "projectId": "664b567a33dcdf58c8b37e5a",
-  "projectName": "Custom Component Test Cases - 1"
+  "components": ["./src/components/ClassEnumTypes.js", "./src/components/MyButton.js"]
 }
