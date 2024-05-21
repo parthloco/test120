@@ -1,0 +1,138 @@
+.imageIcon {
+  width: 448px;
+  position: relative;
+  height: 429px;
+  object-fit: cover;
+}
+.madisonFroning {
+  position: relative;
+  line-height: 110%;
+  font-weight: 600;
+}
+.div,
+.starIcon {
+  position: absolute;
+}
+.starIcon {
+  top: 1px;
+  left: 0;
+  border-radius: var(--br-12xs);
+  width: 20px;
+  height: 20px;
+}
+.div {
+  top: 0;
+  left: 18px;
+  line-height: 110%;
+}
+.star {
+  width: 36px;
+  position: relative;
+  height: 21px;
+  font-size: var(--font-size-lg);
+}
+.name {
+  width: 359px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-104xl);
+}
+.line {
+  width: 360px;
+  position: relative;
+  border-top: 1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  height: 1px;
+}
+.crossfitExpoortNutrition,
+.specialisations {
+  position: absolute;
+  left: 0;
+  line-height: 145%;
+  text-transform: capitalize;
+}
+.crossfitExpoortNutrition {
+  top: 33.6px;
+  font-weight: 500;
+  display: inline-block;
+  width: 328.3px;
+  height: 31.8px;
+}
+.specialisations {
+  top: 0;
+  color: var(--color-white);
+}
+.specilitis {
+  width: 328.3px;
+  position: relative;
+  height: 65.4px;
+}
+.fbIcon,
+.instaIcon,
+.twiterIcon {
+  width: 22.1px;
+  position: relative;
+  height: 21.3px;
+}
+.fbIcon,
+.twiterIcon {
+  height: 21.1px;
+}
+.twiterIcon {
+  width: 23.7px;
+  height: 18.9px;
+}
+.socialIcon {
+  width: 104px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-lg);
+}
+.content1 {
+  width: 328.3px;
+  align-items: flex-start;
+  gap: var(--gap-16xl);
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-lato);
+}
+.content,
+.content1,
+.details,
+.imageHolder {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.content {
+  width: 359px;
+  align-items: flex-start;
+  gap: var(--gap-3xl);
+}
+.details,
+.imageHolder {
+  width: 448px;
+  align-items: center;
+}
+.details {
+  background-color: var(--color-gray-200);
+  padding: var(--padding-30xl) var(--padding-25xl);
+  box-sizing: border-box;
+}
+.imageHolder {
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+
+
+.loginButton {
+  background-color: blue;
+  height: 100px;
+  width: 300px;
+}
